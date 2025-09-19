@@ -1,6 +1,5 @@
-<<<<<<< HEAD
 Integrity AI Frontend
-A frontend-only, ethically-designed writing assistant built with Next.js, TypeScript, and Tailwind CSS. This project adheres to a strict no-backend policy, relying entirely on client-side state management, mock data, and Mock Service Worker (MSW) for API simulation.
+An ethically-designed writing assistant built with Next.js, TypeScript, and Tailwind CSS. This project adheres to a strict no-backend policy, relying entirely on client-side state management, mock data, and Mock Service Worker (MSW) for API simulation.
 
 Features
 Ethical Design: Persistent banners and a "Responsible Use" interstitial.
