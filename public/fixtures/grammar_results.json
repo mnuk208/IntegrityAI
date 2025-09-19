@@ -1,0 +1,20 @@
+{
+  "originalText": "The boy was running fastly and he saw a big dog, witch was barking loudly.",
+  "correctedText": "The boy was running quickly and he saw a big dog, which was barking loudly.",
+  "changes": [
+    {
+      "original": "fastly",
+      "corrected": "quickly",
+      "rule": "Adverb Correction",
+      "explanation": "The word 'fast' can function as both an adjective and an adverb, but 'quickly' is a more common and standard adverb form. 'Fastly' is generally considered non-standard.",
+      "example": "Incorrect: He ran fastly. Correct: He ran quickly."
+    },
+    {
+      "original": "witch",
+      "corrected": "which",
+      "rule": "Homophone Correction",
+      "explanation": "'Witch' is a noun referring to a person with magical powers. 'Which' is a pronoun used to introduce a clause.",
+      "example": "Incorrect: The cat, witch was grey, ran away. Correct: The cat, which was grey, ran away."
+    }
+  ]
+}

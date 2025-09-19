@@ -1,0 +1,14 @@
+[
+  {
+    "role": "assistant",
+    "text": "Welcome back! I can help you humanize drafts, detect AI, or prep content for translation. What should we tackle first?"
+  },
+  {
+    "role": "user",
+    "text": "Give me a quick overview of the essay summary I just uploaded."
+  },
+  {
+    "role": "assistant",
+    "text": "The essay explores how transparent AI guidelines improve classroom trust. It highlights peer-review workflows and stresses clear citation preservation."
+  }
+]

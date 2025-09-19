@@ -1,0 +1,34 @@
+{
+  "text": "The sun, a giant fiery orb of gas, provides the energy necessary for life on Earth. Its light and warmth are essential for photosynthesis, the process by which plants convert light energy into chemical energy. Without the sun, our planet would be a frozen, lifeless rock hurtling through the cold expanse of space.",
+  "similarityScore": 28,
+  "matches": [
+    {
+      "type": "exact",
+      "text": "The sun, a giant fiery orb of gas, provides the energy necessary for life on Earth.",
+      "source": "https://www.nasa.gov/science-and-research/the-sun/"
+    },
+    {
+      "type": "paraphrase",
+      "text": "Its light and warmth are essential for photosynthesis, the process by which plants convert light energy into chemical energy.",
+      "source": "https://www.nationalgeographic.org/encyclopedia/photosynthesis/"
+    }
+  ],
+  "sourceList": [
+    {
+      "url": "https://www.nasa.gov/science-and-research/the-sun/",
+      "title": "The Sun - NASA Science"
+    },
+    {
+      "url": "https://www.nationalgeographic.org/encyclopedia/photosynthesis/",
+      "title": "Photosynthesis - National Geographic Society"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Sun",
+      "title": "Sun - Wikipedia"
+    },
+    {
+      "url": "https://www.britannica.com/science/sun-star",
+      "title": "Sun - Britannica"
+    }
+  ]
+}
